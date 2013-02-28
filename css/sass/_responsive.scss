@@ -1,0 +1,14 @@
+// Large desktops
+@import "responsive-1200px-min";
+
+// Tablets to regular desktops
+@import "responsive-768px-979px";
+
+// Phones to portrait tablets and narrow desktops
+@import "responsive-767px-max";
+
+// 2x
+@media
+	only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) { @import "2x"; }
