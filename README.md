@@ -1,5 +1,7 @@
 #HTML Starter#
 
+`v0.2`
+
 It includes a bunch of good stuff:
 
 * All the **HTML5 Boilerplate** goodness (http://html5boilerplate.com/);
