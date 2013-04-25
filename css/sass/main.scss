@@ -1,15 +1,29 @@
 /*
-Starter v0.2
+     ______   __
+    /\__  _\ /\ \
+    \/_/\ \/ \ \ \
+       \ \_\  \ \_\
+        \/_/   \/_/
+
+    For:        
+    Author:     
+    Date:       
 */
 
-// Compass, Susy & Normalize
+/*!
+Project Name
+*/
+
+// Compass, Susy and Normalize
 @import "compass";
 @import "susy";
 @import "normalize";
 
-// Mixins, utilities & variables (@font-face fonts are in variables)
+// Mixins, vendors, helpers & variables (@font-face fonts are in variables)
 @import "mixins";
-@import "utilities";
+@import "vendor/_retina-sprites";
+// @import "rgbapng";
+@import "helpers";
 @import "variables";
 
 // Animations
@@ -18,7 +32,7 @@ Starter v0.2
 // Base/defaults (html, body, typography, headings, lists, etc)
 @import "base";
 
-// Layout, header, footer
+// Layout, grid, header, footer
 @import "layout";
 
 // Buttons
@@ -30,5 +44,4 @@ Starter v0.2
 // Modules (could be also used for page specific styles)
 @import "modules";
 
-// Responsive
-@import "responsive";
+// Others...
