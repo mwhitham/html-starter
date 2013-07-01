@@ -1,6 +1,6 @@
 #HTML Starter#
 
-`v0.2`
+`v0.3`
 
 It includes a bunch of good stuff:
 
